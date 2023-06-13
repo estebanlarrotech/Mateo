@@ -16,3 +16,10 @@ var typed=new Typed(".input",{
     backSpeed:25,
     loop:true
 })
+
+var typed=new Typed(".input2",{
+    strings:["  Anio = 0.50  ","","   Pulseira = 1  ","  Coliar = 2  "],
+    typedSpeed:20,
+    backSpeed:25,
+    loop:true
+})
